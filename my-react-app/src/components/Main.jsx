@@ -1,8 +1,9 @@
 function Main() {
   return (
-    <h1>
-        DC COMICS
-    </h1>
-  )}
+    <main>
+      <h1>NEWSBLOG</h1>
+    </main>
+  );
+}
 
-  export default Main;
+export default Main;
